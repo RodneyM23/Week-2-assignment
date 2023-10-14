@@ -1,0 +1,43 @@
+body{
+    /*This is where i changed the background color*/
+background-color:lightskyblue}
+/*This is Where i adjusted the box model*/
+#box-model {
+    padding:10px;
+    border-style: solid;
+    border-width: 3px;
+    margin:30px;
+
+}
+/*Where i changed h2 color and changed the font style for my list*/
+
+#home h1 {color:black}
+#home h2{color:red}
+#home ol {font-style: oblique;}
+.image1{width:30px;}
+.image2{width:30px}
+.image3{width:30px}
+.image4{width:30px}
+.image5{width:30px}
+
+/*Where i edited my table and changed */
+#standings table {border-collapse: collapse;
+width: 100%}
+#standings th, td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+    color:goldenrod
+}
+/*Where i edited the color of h1, made borders,*/
+#contact h1 {color:firebrick}
+#contact p{font-style:oblique;}
+#contact input{border-radius: 50px;
+    padding: auto;
+    border:solid}
+#contact textarea{width: 80%;
+background-color: whitesmoke;}
+#contact button {color: black;
+    border: solid;}
+
+
